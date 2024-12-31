@@ -24,7 +24,7 @@ jobs:
       - name: Setup Cog
         uses: replicate/setup-cog@v2
         with:
-          token: ${{ secrets.REPLICATE_API_TOKEN }}
+          token: ${{ secrets.Default }}
         
       - name: Push to Replicate
         run: cog push r8.im/${{ inputs.model_name }}
