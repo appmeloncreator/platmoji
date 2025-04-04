@@ -1,5 +1,5 @@
 ## Platmoji - An emoji generator
-This is Platmoji, an emoji generator trained off of 3K emojis from iOS 14.
+This is Platmoji, an emoji generator trained off of 3K emojis.
 
 ## OPEN SOURCE
 This open source, but sadly I will be storing this model through releases as a safetensors file. :(
